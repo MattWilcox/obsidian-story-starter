@@ -106,6 +106,12 @@ One Note per location is all I usually do, with stuff I as the author want to re
 
 Guess what? One Note per organisation is all I usually do, with stuff I as the author want to remember and know about my concept of them, which I can refer back to as I write. "What was the name of the guild responsible for wagons again? And who was it heading up the organisation? Ah yes..."
 
+### Events
+
+> "world events" or other such important bits of history and lore that aren't things that directly happen in the story
+
+One note per Event.
+
 ### Scenes (named)
 
 > Components of the story itself, split into individual named scenes.

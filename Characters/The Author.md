@@ -5,14 +5,13 @@ tags:
 ---
 # Who they are at the start of the story?
 
-## Traits
-*Personality Traits*
+## Personality Traits
 
-*Ideals*
+## Ideals
 
-*Bonds*
+## Bonds
 
-*Flaws*
+## Flaws
 
 ## Backstory
 

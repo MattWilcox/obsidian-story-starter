@@ -28,8 +28,9 @@ The Reader is an enigma, a mystery with few aspects known to me.
 Someone working in tech, but feeling the need to branch out and try something new. A creative needing a new outlet. They have set their mind to try writing a story, and so their adventure begins...
 
 # Notable Events
+%%Personal events may be simple sentences. If the character is involved in a Historically Important Event, that may be a link to one of the Event note types%%
 
-- Discovered a GitHub project for writing stories in Obsidian - this will become pivotal.
+- Discovered a GitHub project for writing stories in Obsidian - this will become pivotal to their arc.
 
 # Notable Relationships
 
