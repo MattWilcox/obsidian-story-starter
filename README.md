@@ -47,9 +47,9 @@ Open: `Settings` > `Appearance`
 - Text Font:      `Monaspace Xenon Var`
 - Monospace Font: `Monaspace Krypton Var`
 
-![[_media/example-light.webp]]
+![](_media/example-light.webp)
 
-![[_media/example-dark.webp]]
+![](_media/example-dark.webp)
 
 # Using this vault
 
