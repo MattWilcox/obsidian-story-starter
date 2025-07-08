@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "299ff3ecb42b670b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3c0ba3287cfe70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694380e973c21d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20352e0ba48b0710",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcdc2ca131970858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103c44d515b5785e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01cb5538deb47902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#emotion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbfa7bcfbde19252",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246
+  },
+  "right": {
+    "id": "c1dbaf7576e91822",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9795cc2de0df743",
+        "type": "tabs",
+        "dimension": 55.89123867069487,
+        "children": [
+          {
+            "id": "409dbb4e0b8a644b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "a013baa7016a8771",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "de4fca0096a67ebd",
+        "type": "tabs",
+        "dimension": 44.10876132930514,
+        "children": [
+          {
+            "id": "9f4d0344809438b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
+          },
+          {
+            "id": "928eeaedd71beb59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6d934da0bf579f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "37547b7993fe8676",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "694380e973c21d7a",
+  "lastOpenFiles": [
+    "Story One/Chapters/Example Chapter.md",
+    "Characters/The Reader.md",
+    "Story One/Scenes/A Discovery.md",
+    "Story One/Story One Manuscript.md",
+    "Story One/Story One Concept.md",
+    "_meta/Writing Ideas Method.md",
+    "_meta/Obsidian Properties.md",
+    "_meta/Incomplete Scenes.md",
+    "README.md",
+    "Story One/Scenes/Another Example Scene.md",
+    "_templates/pages/page - location.md",
+    "_templates/pages/page - character.md",
+    "Characters/The Author.md",
+    "Locations/The Reader's House.md",
+    "_templates/pages/page.md",
+    "_templates/header/header.md",
+    "_templates/footer/footer - obsidian.md",
+    "_templates/footer/footer - location.md",
+    "_templates/footer/footer - character.md",
+    "Locations/Example Location.md",
+    "Characters/Example Character.md",
+    "Organisations/Example Organisation.md",
+    "Story One/Chapters",
+    "Story One/Scenes",
+    "_meta/research",
+    "_templates/pages/page - game note.md",
+    "_templates",
+    "_meta"
+  ]
+}

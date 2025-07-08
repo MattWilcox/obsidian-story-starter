@@ -1,0 +1,19 @@
+/*
+* This file is only to tweak how Obsidian File Embeds appear.
+* By default, embedding a Note into another Note has associated styles:
+* - the Embedded Note is indented
+* - The title of the note is output as part of the embed
+*
+* We use Embeds to create a Manuscript, so that we can freely re-organise chunks of text - so we do not want any styling that indicated the embed is an embed. It doesn't matter for us.
+*
+* This file removes the default styling, so that Notes with nothing but multiple embedded notes still look like normal text.
+*/
+
+.markdown-embed.internal-embed {
+	--embed-padding: 0;
+	--embed-border-start: 0px solid currentColor;
+}
+
+.internal-embed .markdown-embed-title {
+	display: none;
+}

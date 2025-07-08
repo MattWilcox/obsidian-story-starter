@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "e8ae778fc979e915",
+    "type": "split",
+    "children": [
+      {
+        "id": "278898a1e937cf90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_templates/pages/page - location.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab5f5ee87ab010eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "39eca200d171546e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2b974945353fcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d3d23ac6a256710",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c5ad8dbbb217165",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc091166dace851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed2a9cc6a691e14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_templates/pages/page - location.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74cb47c104448aea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_templates/pages/page - location.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "278898a1e937cf90",
+  "lastOpenFiles": [
+    "_templates/pages/page - location.md",
+    "_templates/pages/page - character.md",
+    "_templates/pages/page - game note.md",
+    "Meta/Untitled.md",
+    "_templates/footer/footer - character.md",
+    "_templates/footer/footer - obsidian.md",
+    "_templates/footer/footer - location.md",
+    "_templates/Untitled.md"
+  ]
+}
