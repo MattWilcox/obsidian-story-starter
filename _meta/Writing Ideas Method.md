@@ -24,10 +24,10 @@ e.g., Undead are extremely rare - but not inherently evil. They don't have a per
 
 - Why do people *think* undead are evil - did a specific undead give that reputation?
 - What happens to undead that have been trapped for centuries; did they go mad?
-- What motivates an undead in the first year? The first generation? The first century? The first millenia?
-- What advantages are they able to acrue? What limits their abilities?
-	- They can learn patterns and psycology through experience
-	- They can't "play" the same person indefinately; family and friends will die or get suspicious etc?
+- What motivates an undead in the first year? The first generation? The first century? The first millennia?
+- What advantages are they able to accrue? What limits their abilities?
+	- They can learn patterns and psychology through experience
+	- They can't "play" the same person indefinitely; family and friends will die or get suspicious etc?
 
 ## 2. World ideas
 

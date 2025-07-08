@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Organisations/Example Organisation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Example Organisation"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Organisations/Example Organisation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Example Organisation"
             }
           },
           {
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Organisations/Example Organisation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Example Organisation"
             }
           },
           {
@@ -202,27 +202,27 @@
   },
   "active": "694380e973c21d7a",
   "lastOpenFiles": [
-    "_templates/pages/page - event.md",
+    "Locations/The Reader's House.md",
     "Events/Example Event.md",
-    "_templates/pages/page - location.md",
+    "README.md",
+    "_meta/ideation",
+    "_meta/Obsidian Properties.md",
+    "_meta/Writing Ideas Method.md",
     "_templates/pages/page - character.md",
+    "_templates/pages/page - event.md",
+    "_templates/pages/page - location.md",
     "Characters/The Reader.md",
     "Characters/The Author.md",
-    "README.md",
     "Events",
     "_media/example-dark.webp",
     "_media/example-light.webp",
     "_media",
-    "_meta/Obsidian Properties.md",
     "Story One/Scenes/A Discovery.md",
-    "_meta/Untitled",
     "Story One/Scenes/Another Example Scene.md",
     "Story One/Chapters/Example Chapter.md",
     "Story One/Story One Manuscript.md",
     "Story One/Story One Concept.md",
-    "_meta/Writing Ideas Method.md",
     "_meta/Incomplete Scenes.md",
-    "Locations/The Reader's House.md",
     "_templates/pages/page.md",
     "_templates/header/header.md",
     "_templates/footer/footer - obsidian.md",
