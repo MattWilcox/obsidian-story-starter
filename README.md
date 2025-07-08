@@ -1,10 +1,12 @@
-This project is a starter Obsidian Vault for use with the Obsidian.md application, aimed at helping you to write fiction stories. Or D&D Campaigns. That sort of thing.
+# Obsidian Story Starter
+
+This project is a starter Obsidian Vault for use with the [Obsidian.md](https://obsidian.md) application, and is intended to help with writing fiction stories. Or D&D Campaigns. That sort of thing.
 
 Once you download it and open it in Obsidian I'd suggest you start familiarising yourself by going and reading the first scene in this bare-bones example story... [[Story One/Scenes/A Discovery|A Discovery]]
 
 Before you download anything though I rather suspect you'll want a bit more context:
 
-This vault doesn't rely on community plugins, and the methodology in it is suggestion rather than strict system.
+This vault doesn't rely on community plugins, and the methodology in it is suggestion rather than strict system. It's intended to be simple but effective.
 
 More than anything though: this is just a starter Vault that I find works for me. It's scaffolding when starting a new project, because "I'll likely want to think about _these sort of things_ and _in this sort of way_". It's not meant to be restrictive or prescriptive. Just a guide to adapt.
 
@@ -14,14 +16,16 @@ For the sake of making it public, I've added "an example story" aimed at people 
 tag:#deleteme
 ```
 
-I didn't have to write that list - Obsidian just found all the notes I added the tag to. Nice hey. I suggest you delete those notes in that list before starting your project. And then delete this note once that list is empty. Well, once you've glanced over them and got the gist of things.
+If you're reading on GitHub, you can see the query itself above. If you're in Obsidian, that's actually showing the results of the query (if you're in reader view). I didn't have to write that list - Obsidian just found all the notes I added the `deleteme` tag to. Nice hey.
+
+I suggest you delete those notes in that list before starting your project. And then delete this note once that list is empty. Well, once you've glanced over them and got the gist of things.
 
 # Requirements
 
 - [Obsidian](https://obsidian.md) - the note-taking app. 
 	- It's free.
 	- It uses standard MarkDown files so there is no vendor lock-in.
-	- It's cross-platform, including phones.
+	- It's cross-platform, including phones so you can write whenever you have a thought.
 
 # Nice to have
 
@@ -42,6 +46,10 @@ Open: `Settings` > `Appearance`
 - Interface Font: `Monaspace Argon Var`
 - Text Font:      `Monaspace Xenon Var`
 - Monospace Font: `Monaspace Krypton Var`
+
+![[_media/example-light.webp]]
+
+![[_media/example-dark.webp]]
 
 # Using this vault
 

@@ -32,14 +32,16 @@ How well defined are the contents of this note? "How done is it?"
 # In-world Meta Properties
 
 A note may involve things you want to track without explicitly mentioning those things in the text itself. Use properties to track these.
+
 ## Characters
 
-Lists the characters "present" in the scene.
+Lists the characters "present" in the scene - as a list of links to each Character's own Note.
+
 ## Viewpoints
 
-Lists viewpoint characters, or third-person.
+Lists viewpoint characters, or third-person - as a list of links to each Character's own Note.
 
 ## Locations
 
-Lists Locations the scene takes place in.
+Lists Locations the scene takes place in - as a list of links to each Character's own Note.
 

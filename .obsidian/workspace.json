@@ -87,7 +87,7 @@
       {
         "id": "f9795cc2de0df743",
         "type": "tabs",
-        "dimension": 55.89123867069486,
+        "dimension": 55.891238670694854,
         "children": [
           {
             "id": "409dbb4e0b8a644b",
@@ -123,7 +123,7 @@
       {
         "id": "de4fca0096a67ebd",
         "type": "tabs",
-        "dimension": 44.10876132930514,
+        "dimension": 44.108761329305146,
         "children": [
           {
             "id": "9f4d0344809438b0",
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 357
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +202,20 @@
   },
   "active": "694380e973c21d7a",
   "lastOpenFiles": [
+    "_media/example-dark.webp",
+    "_media/example-light.webp",
+    "_media",
+    "_meta/Obsidian Properties.md",
+    "README.md",
+    "Story One/Scenes/A Discovery.md",
+    "_meta/Untitled",
+    "Story One/Scenes/Another Example Scene.md",
     "Story One/Chapters/Example Chapter.md",
     "Characters/The Reader.md",
-    "Story One/Scenes/A Discovery.md",
     "Story One/Story One Manuscript.md",
     "Story One/Story One Concept.md",
     "_meta/Writing Ideas Method.md",
-    "_meta/Obsidian Properties.md",
     "_meta/Incomplete Scenes.md",
-    "README.md",
-    "Story One/Scenes/Another Example Scene.md",
     "_templates/pages/page - location.md",
     "_templates/pages/page - character.md",
     "Characters/The Author.md",
