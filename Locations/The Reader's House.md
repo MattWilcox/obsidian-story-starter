@@ -17,6 +17,52 @@ Not yet established
 
 ## Scenes featuring The Reader's House
 
-```query
-[Locations:The Reader's House]
+```base
+filters:
+  and:
+    - note["Note Type"] == "Scene"
+properties:
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Locations.contains(link("Locations/The Reader's House", "The Reader's House"))
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+
+```
+
+## Events featuring The Reader's House
+
+```base
+filters:
+  and:
+    - note["Note Type"] == "Event"
+properties:
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Locations.contains(link("Locations/The Reader's House", "The Reader's House"))
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+
 ```

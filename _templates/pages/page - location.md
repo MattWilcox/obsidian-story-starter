@@ -11,12 +11,52 @@ Note Type: Location
 
 ## Scenes featuring "{{title}}"
 
-```query
-[Note Type:Scene] [Locations:{{title}}]
+```base
+filters:
+  and:
+    - note["Note Type"] == "Scene"
+properties:
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Locations.contains(link("Locations/{{title}}", "{{title}}"))
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+
 ```
 
 ## Events featuring "{{title}}"
 
-```query
-[Note Type:Event] [Locations:{{title}}]
+```base
+filters:
+  and:
+    - note["Note Type"] == "Event"
+properties:
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Locations.contains(link("Locations/{{title}}", "{{title}}"))
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+
 ```

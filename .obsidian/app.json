@@ -8,5 +8,11 @@
     "_templates/"
   ],
   "showInlineTitle": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

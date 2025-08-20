@@ -33,6 +33,24 @@ tags:
 
 # Scenes featuring "The Author"
 
-```query
-[Note Type:Scene] [character:The Author]
+```base
+filters:
+	and:
+		- note["Note Type"] == "Scene"
+		- Characters.contains(link("Characters/The Author", "The Author"))
+properties:
+	file.name:
+		displayName: File
+	file.ctime:
+		displayName: Created
+	file.mtime:
+		displayName: Last edited
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+
 ```

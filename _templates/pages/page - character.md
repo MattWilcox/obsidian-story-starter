@@ -35,7 +35,24 @@ Note Type: Character
 # Dynamic Queries
 
 ## Scenes featuring "{{title}}"
+```base
+filters:
+	and:
+		- note["Note Type"] == "Scene"
+		- Characters.contains(link("Characters/{{title}}", "{{title}}"))
+properties:
+	file.name:
+		displayName: File
+	file.ctime:
+		displayName: Created
+	file.mtime:
+		displayName: Last edited
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
 
-```query
-[Note Type:Scene] [Characters:{{title}}]
 ```

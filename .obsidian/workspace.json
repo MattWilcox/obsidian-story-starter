@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Example Organisation.md",
-                "mode": "source",
+                "file": "Story One/Story One Manuscript.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Example Organisation"
+              "title": "Story One Manuscript"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/Example Organisation.md",
+                "file": "Story One/Story One Manuscript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Organisation"
+              "title": "Outline of Story One Manuscript"
             }
           },
           {
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Organisations/Example Organisation.md"
+                "file": "Story One/Story One Manuscript.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Example Organisation"
+              "title": "File properties for Story One Manuscript"
             }
           },
           {
@@ -203,26 +203,31 @@
   },
   "active": "694380e973c21d7a",
   "lastOpenFiles": [
+    "Story One/Story One Concept.md",
+    "Story One/Story One Manuscript.md",
+    "Story One/Scenes/Another Example Scene.md",
+    "Story One/Scenes/A Discovery.md",
+    "Story One/Chapters/Example Chapter.md",
+    "Organisations/Example Organisation.md",
     "Locations/The Reader's House.md",
     "Events/Example Event.md",
+    "_templates/pages/page - location.md",
+    "_templates/pages/page - character.md",
+    "_templates/pages/page - event.md",
+    "Characters/The Author.md",
+    "Characters/The Reader.md",
+    "Characters/Test Character.md",
+    "Untitled.md",
+    "_bases/test.base",
+    "_bases",
     "README.md",
     "_meta/ideation",
     "_meta/Obsidian Properties.md",
     "_meta/Writing Ideas Method.md",
-    "_templates/pages/page - character.md",
-    "_templates/pages/page - event.md",
-    "_templates/pages/page - location.md",
-    "Characters/The Reader.md",
-    "Characters/The Author.md",
     "Events",
     "_media/example-dark.webp",
     "_media/example-light.webp",
     "_media",
-    "Story One/Scenes/A Discovery.md",
-    "Story One/Scenes/Another Example Scene.md",
-    "Story One/Chapters/Example Chapter.md",
-    "Story One/Story One Manuscript.md",
-    "Story One/Story One Concept.md",
     "_meta/Incomplete Scenes.md",
     "_templates/pages/page.md",
     "_templates/header/header.md",
@@ -231,11 +236,9 @@
     "_templates/footer/footer - character.md",
     "Locations/Example Location.md",
     "Characters/Example Character.md",
-    "Organisations/Example Organisation.md",
     "Story One/Chapters",
     "Story One/Scenes",
     "_meta/research",
-    "_templates/pages/page - game note.md",
     "_templates",
     "_meta"
   ]

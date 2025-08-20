@@ -46,6 +46,25 @@ Someone working in tech, but feeling the need to branch out and try something ne
 
 # Scenes featuring "The Reader"
 
-```query
-[Note Type:Scene] [Characters:The Reader]
+```base
+filters:
+  and:
+    - note["Note Type"] == "Scene"
+    - Characters.contains(link("Characters/The Reader", "The Reader"))
+properties:
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort: []
+
 ```
