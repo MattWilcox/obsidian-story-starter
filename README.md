@@ -10,10 +10,22 @@ This vault doesn't rely on community plugins, and the methodology in it is sugge
 
 More than anything though: this is just a starter Vault that I find works for me. It's scaffolding when starting a new project, because "I'll likely want to think about _these sort of things_ and _in this sort of way_". It's not meant to be restrictive or prescriptive. Just a guide to adapt.
 
-For the sake of making it public, I've added "an example story" aimed at people not myself (hi, that's you), in an attempt to get what my brain already knows into your brain, which doesn't. Those "documentation story notes" are all tagged with 'deleteme'. You can see them all here, in this handy-dandy inline-search query (the sort of thing you'll find useful as you write stories and want to keep track of "stuff" - Obsidian can automate a lot of that...):
+For the sake of making it public, I've added "an example story" aimed at people not myself (hi, that's you), in an attempt to get what my brain already knows into your brain, which doesn't. Those "documentation story notes" are all tagged with `deleteme`. You can see them all here, in this handy-dandy inline-search query (the sort of thing you'll find useful as you write stories and want to keep track of "stuff" - Obsidian can automate a lot of that...)
 
-```query
-tag:#deleteme
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("deleteme")
+    order:
+      - file.name
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+
 ```
 
 If you're reading on GitHub, you can see the query itself above. If you're in Obsidian, that's actually showing the results of the query (if you're in reader view). I didn't have to write that list - Obsidian just found all the notes I added the `deleteme` tag to. Nice hey.
