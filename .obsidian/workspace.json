@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story One/Story One Manuscript.md",
-                "mode": "preview",
-                "source": true
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Story One Manuscript"
+              "title": "README"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story One/Story One Manuscript.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Story One Manuscript"
+              "title": "Outline of README"
             }
           },
           {
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story One/Story One Manuscript.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Story One Manuscript"
+              "title": "File properties for README"
             }
           },
           {
@@ -203,24 +203,24 @@
   },
   "active": "694380e973c21d7a",
   "lastOpenFiles": [
-    "Story One/Story One Concept.md",
     "Story One/Story One Manuscript.md",
+    "_templates/pages/page - character.md",
+    "Story One/Chapters/Example Chapter.md",
     "Story One/Scenes/Another Example Scene.md",
     "Story One/Scenes/A Discovery.md",
-    "Story One/Chapters/Example Chapter.md",
-    "Organisations/Example Organisation.md",
+    "Story One/Story One Concept.md",
+    "README.md",
     "Locations/The Reader's House.md",
+    "_bases/test.base",
+    "Organisations/Example Organisation.md",
     "Events/Example Event.md",
     "_templates/pages/page - location.md",
-    "_templates/pages/page - character.md",
     "_templates/pages/page - event.md",
     "Characters/The Author.md",
     "Characters/The Reader.md",
     "Characters/Test Character.md",
     "Untitled.md",
-    "_bases/test.base",
     "_bases",
-    "README.md",
     "_meta/ideation",
     "_meta/Obsidian Properties.md",
     "_meta/Writing Ideas Method.md",
@@ -235,7 +235,6 @@
     "_templates/footer/footer - location.md",
     "_templates/footer/footer - character.md",
     "Locations/Example Location.md",
-    "Characters/Example Character.md",
     "Story One/Chapters",
     "Story One/Scenes",
     "_meta/research",

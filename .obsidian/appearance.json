@@ -2,9 +2,9 @@
   "accentColor": "#e147c0",
   "theme": "system",
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "Monaspace Argon Var",
-  "textFontFamily": "Monaspace Xenon Var",
-  "monospaceFontFamily": "Monaspace Krypton Var,Monaspace Neon Var",
+  "interfaceFontFamily": "Monaspace Argon",
+  "textFontFamily": "Monaspace Xenon",
+  "monospaceFontFamily": "Monaspace Krypton,Monaspace Neon",
   "baseFontSize": 14,
   "enabledCssSnippets": [
     "embed-tweaks"
