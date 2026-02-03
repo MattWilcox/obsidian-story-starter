@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_meta/Writing Ideas Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Writing Ideas Method"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "f9795cc2de0df743",
         "type": "tabs",
-        "dimension": 55.891238670694854,
+        "dimension": 51.03448275862069,
         "children": [
           {
             "id": "409dbb4e0b8a644b",
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "_meta/Writing Ideas Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Writing Ideas Method"
             }
           },
           {
@@ -123,7 +123,7 @@
       {
         "id": "de4fca0096a67ebd",
         "type": "tabs",
-        "dimension": 44.108761329305146,
+        "dimension": 22.988505747126435,
         "children": [
           {
             "id": "9f4d0344809438b0",
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "_meta/Writing Ideas Method.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Writing Ideas Method"
             }
           },
           {
@@ -177,12 +177,32 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_meta/Writing Ideas Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Writing Ideas Method"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9872a153feafeda",
+        "type": "tabs",
+        "dimension": 25.97701149425287,
+        "children": [
+          {
+            "id": "473013a7e3fb9066",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "_bases/Related.base",
+                "viewName": "Related Notes"
+              },
+              "icon": "lucide-table",
+              "title": "Related"
             }
           }
         ]
@@ -203,18 +223,19 @@
   },
   "active": "694380e973c21d7a",
   "lastOpenFiles": [
+    "_meta/Obsidian Properties.md",
+    "Locations/The Reader's House.md",
+    "_meta/Incomplete Scenes.md",
+    "README.md",
+    "_bases/Related.base",
     "_templates/pages/page - character.md",
     "Story One/Scenes/Another Example Scene.md",
     "Story One/Scenes/A Discovery.md",
     "Story One/Story One Manuscript.md",
-    "Locations/The Reader's House.md",
     "Events/Example Event.md",
     "Characters/The Reader.md",
     "Characters/The Author.md",
     "_meta/Writing Ideas Method.md",
-    "_meta/Obsidian Properties.md",
-    "_meta/Incomplete Scenes.md",
-    "README.md",
     "_bases/test.base",
     "Organisations/Example Organisation.md",
     "Story One/Story One Concept.md",
@@ -238,7 +259,6 @@
     "Story One/Chapters",
     "Story One/Scenes",
     "_meta/research",
-    "_templates",
-    "_meta"
+    "_templates"
   ]
 }
