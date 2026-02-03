@@ -1,16 +1,16 @@
 # Obsidian Story Starter
 
-This project is a starter Obsidian Vault for use with the [Obsidian.md](https://obsidian.md) application, and is intended to help with writing fiction stories. Or D&D Campaigns. That sort of thing.
+> [!summary] This project is a starter Obsidian Vault for use with [Obsidian.md](https://obsidian.md). It is intended to help with writing fiction stories. Or D&D Campaigns. That sort of thing.
 
-Once you download it and open it in Obsidian I'd suggest you start familiarising yourself by going and reading the first scene in this bare-bones example story... [[Story One/Scenes/A Discovery|A Discovery]]
+Once you download it and open it in Obsidian I'd suggest you start familiarising yourself by going and reading the first scene in this bare-bones example story... [[Story One/Scenes/A Discovery|A Discovery]]. You can just click that link.
 
-Before you download anything though I rather suspect you'll want a bit more context:
+## More about this vault
 
-This vault doesn't rely on community plugins, and the methodology in it is suggestion rather than strict system. It's intended to be simple but effective.
+It doesn't rely on community plugins, and the methodology in it is all suggestion rather than strict system. It's intended to be a simple place to start.
 
-More than anything though: this is just a starter Vault that I find works for me. It's scaffolding when starting a new project, because "I'll likely want to think about _these sort of things_ and _in this sort of way_". It's not meant to be restrictive or prescriptive. Just a guide to adapt.
+More than anything: this is just something that I find works for me. It's scaffolding when starting a new project, because "I'll likely want to think about _these sort of things_ and _in this sort of way_". It's not meant to be restrictive or complete. Adapt it as needed.
 
-For the sake of making it public, I've added "an example story" aimed at people not myself (hi, that's you), in an attempt to get what my brain already knows into your brain, which doesn't. Those "documentation story notes" are all tagged with `deleteme`. You can see them all here, in this handy-dandy inline-search query (the sort of thing you'll find useful as you write stories and want to keep track of "stuff" - Obsidian can automate a lot of that...)
+For the sake of making it public, I've added "an example story" aimed at people not myself (hi, that's you) in an attempt to get what my brain already knows into your brain (which doesn't). Those notes are all tagged with `deleteme`. You can see them all here, in this handy-dandy inline database query (the sort of thing you'll find useful as you write stories and want to keep track of "stuff" - Obsidian can automate a lot of that...)
 
 ```base
 views:
@@ -28,15 +28,15 @@ views:
 
 ```
 
-If you're reading on GitHub, you can see the query itself above. If you're in Obsidian, that's actually showing the results of the query (if you're in reader view). I didn't have to write that list - Obsidian just found all the notes I added the `deleteme` tag to. Nice hey.
+If you're reading on GitHub, you can see the query itself above. If you're in Obsidian, that's actually showing the results of the query (if you're in reader view). I didn't have to write that list - Obsidian just found all the notes I added the `deleteme` tag to. Nice.
 
-I suggest you delete those notes in that list before starting your project. And then delete this note once that list is empty. Well, once you've glanced over them and got the gist of things.
+I suggest you delete those notes in that list before starting your project. And then delete this note once that list is empty.
 
 # Requirements
 
 - [Obsidian](https://obsidian.md) - the note-taking app. 
 	- It's free.
-	- It uses standard MarkDown files so there is no vendor lock-in.
+	- It uses standard MarkDown text files, so there is no vendor lock-in.
 	- It's cross-platform, including phones so you can write whenever you have a thought.
 
 # Nice to have
@@ -48,7 +48,7 @@ If you want it to look like I prefer, you will need:
 - [Catppuccin Theme](https://github.com/catppuccin/obsidian)
 	- The theme I use for Obsidian's appearance.
 
-You absolutely do not need to. The defaults are fine. But if you do, here's how...
+You absolutely do not need these "nice to have"s. The defaults are fine. But if you do, here's how...
 
 ## Obsidian Appearance Settings
 
@@ -73,27 +73,30 @@ Or you could just write one story and make a new vault for another story - just 
 
 I don't like writing one big long document as a story. It's hard to organise and keep track of things. If you want to move things around you've got to cut-and-paste big chunks of text around a giant document and that can be fragile and confusing.
 
-Likewise I don't like having one folder on my computer with a bunch of files in it, because they're a pain to work with and need a ton of windows open at once, etc.
+Likewise I don't like having one folder on my computer with a bunch of `docx` (or similar) files in it that I have to have open separately, because they're a pain to work with and need a ton of windows open at once, etc.
 
-That's why I don't use Word or whatever. I use Obsidian and keep everything in it, because Obsidian is _extremely_ good at organising and searching related written content.
+That's why I don't use Word or whatever. I use Obsidian and keep everything in it, because Obsidian is _extremely_ good at organising and searching and working with related written content.
 
-I write _scenes_ as individual notes. Scenes are things I can assign `properties` to - like "who's POV is this scene? Where does it take place? Which characters are in the scene? On what date does the events of the scene happen?" and then I can use Obsidian's built in tools to keep track of those things. I then compile scenes into chapters using `Embeds`. Meaning I can move scenes around accurately and quickly - work on them atomically but still seamlessly see them as part of a larger document. 
+I write _scenes_ as individual notes. Scenes are things I can assign `properties` to - like "who's POV is this scene? Where does it take place? Which characters are in the scene? On what date does the events of the scene happen?" and then I can use Obsidian's built in tools to keep track of those properties. I then compile multiple scenes into chapters using `Embeds`. Meaning I can move scenes around accurately and quickly - work on them atomically but still seamlessly see them as part of a larger document.
 
-Do I need to know what scenes Character Bob is actually in? Easy, it's tracked already in his Character Sheet with a simple embedded Search Query. Did Bob ever meet Jo? In which scenes? Easy to find out! It's all there (assuming you add the appropriate properties to the scene), without needing to go read or do laborious text searches over entire book-length documents. This is what Obsidian _is for_. Exposing relations between notes.
+Do I need to know what scenes Character Bob is actually in? Easy, it's tracked already in his Character Sheet with a simple embedded database. Did Bob ever meet Jo? In which scenes? Easy to find out! It's all there (assuming you add the appropriate properties to the scene), without needing to go read or do laborious text searches over entire book-length documents. This is what Obsidian _is for_; exposing relations between notes.
 
 ## The vault structure
 
 Folders that start with an underscore are _meta_ folders; that is to say they do not form part of the story itself, but hold files _relating to it_. The vault is organised into the following folders.
 
+### `_bases`
+
+It's where the "databases" used elsewhere are stored. Ignore this folder for now, you can learn more about "bases" from [the Obsidian documentation](https://help.obsidian.md/bases) later.
 ### `_media`
 
-This is where all images used in any pages are stored. It's just handy to have media stored in one place. You might want a photo of an actual real-world sword to reference inside a Research Note on the topic of swords, for example.
+This is where all images used in any pages are stored. It's handy to have media stored in one place. You might want a photo of an actual real-world sword to reference inside a Research Note on the topic of swords, for example.
 
 ###  `_meta`
 
 This is where any files that are not part of the story belong. For example, you could put any notes to yourself in here, or group your research notes in here. e.g.,
 
-- Details about real world swords that are a basis of your in story ones; weight, care steps, a photo, etc.
+- Details about real world swords that are a basis of your in-story ones; weight, care steps, a photo, etc.
 - Research about common illnesses in medieval times, and their supposed cures - that you might want to reference and adapt for your own world.
 
 ### `_templates`
@@ -120,11 +123,11 @@ Guess what? One Note per organisation is all I usually do, with stuff I as the a
 
 ### Events
 
-> "world events" or other such important bits of history and lore that aren't things that directly happen in the story
+> "world events" or other such important bits of history and lore that aren't directly things that happen in the story
 
-One note per Event.
+One note per Event. I treat these as omniscient fact, absolute truths. But that doesn't mean that the characters in the story agree with those facts, or have the same level of knowledge about the event.
 
-### Scenes (named)
+### Scenes
 
 > Components of the story itself, split into individual named scenes.
 
@@ -140,6 +143,6 @@ No actual writing is in these Notes, just Obsidian's feature of embedding other 
 
 ### Story Manuscript
 
-> Embeded Chapters, in order, to form the final story
+> Embedded Chapters, in order, to form the final story
 
 Again, no actual text is in the Story note - just Embeds. Uses the same logic as Chapters described above.

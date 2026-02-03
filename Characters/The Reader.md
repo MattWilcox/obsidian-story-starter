@@ -63,6 +63,7 @@ views:
     name: Table
     order:
       - file.name
+      - file.folder
       - file.ctime
       - file.mtime
     sort: []

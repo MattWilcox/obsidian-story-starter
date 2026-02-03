@@ -12,7 +12,7 @@ tags:
 ---
 Don't scroll down yet! Unless, of course, you've already read me once...
 
-...What was that first sentence? How bizarre!
+...What was that first sentence? How bizarre! 
 
 The reader's eyes traced over the text on the screen, they'd been sold on the suggestions of the README file, and some of it made sense. Some of it didn't. Like those first two sentences. "I should forget about that right now", you think to yourself. "I'm sure I'm about to have an epiphany if I jus-" But right at that moment the weight of a penny struck, the light of a bulb illuminating, a _realisation_ - what you are reading _right now_ was what The Author had called "A Scene". An atomic note that could be tracked and tagged, they claimed, yet could also somehow be seamlessly part of a greater whole.
 
