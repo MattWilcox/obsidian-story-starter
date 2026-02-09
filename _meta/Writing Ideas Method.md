@@ -4,7 +4,8 @@ tags:
 ---
 Minimal notes for scaffolding out chunks of story ideas. Idea's are atomic at this level, but then become dependent on higher levels when they inter-connect. i.e., I should be able to jot down ideas for any of these headings at any time - but later think about taking "lower level" ideas and how to adapt them to fit them into the higher level ones. Doing this should in theory lead to many ideas about an *actual* story outline and arcs that keep in mind all of the higher level concepts.
 
-e.g., 
+e.g.,
+
 1. What's an overall vague concept for a story that would be interesting to explore. (The reason to write, or a central theme)
 2. What sort of world and setting aids that concept. (Establish grounding truths)
 3. What sort of characters aids that concept and live in that world. (Establish empathy hooks for readers)

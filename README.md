@@ -12,6 +12,8 @@ More than anything: this is just something that I find works for me. It's scaffo
 
 For the sake of making it public, I've added "an example story" aimed at people not myself (hi, that's you) in an attempt to get what my brain already knows into your brain (which doesn't). Those notes are all tagged with `deleteme`. You can see them all here, in this handy-dandy inline database query (the sort of thing you'll find useful as you write stories and want to keep track of "stuff" - Obsidian can automate a lot of that...)
 
+### Notes tagged with `deleteme`
+
 ```base
 views:
   - type: table
