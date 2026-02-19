@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3c0ba3287cfe70",
+        "id": "3f7a6e0d4249610e",
         "type": "tabs",
         "children": [
           {
-            "id": "694380e973c21d7a",
+            "id": "d9802cc93d8f24bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "_meta/Incomplete Scenes.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Incomplete Scenes"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "_meta/Incomplete Scenes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Incomplete Scenes"
             }
           },
           {
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "_meta/Incomplete Scenes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Incomplete Scenes"
             }
           },
           {
@@ -221,41 +221,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "694380e973c21d7a",
+  "active": "d9802cc93d8f24bf",
   "lastOpenFiles": [
-    "_meta/Writing Ideas Method.md",
-    "_meta/Obsidian Properties.md",
-    "_templates/pages/page - event.md",
-    "_templates/pages/page - location.md",
-    "_templates/pages/page - character.md",
-    "README.md",
-    "_bases/test.base",
     "Locations/The Reader's House.md",
+    "Events/Example Event.md",
+    "_templates/pages/scene.md",
+    "_templates/pages/event.md",
+    "_meta/Obsidian Properties.md",
     "_meta/Incomplete Scenes.md",
-    "_bases/Related.base",
+    "_templates/pages/organisation.md",
+    "_templates/pages/location.md",
+    "_templates/pages/character.md",
+    "_meta/Writing Ideas Method.md",
+    "_media/example-light.webp",
+    "_media/example-dark.webp",
     "Story One/Scenes/Another Example Scene.md",
     "Story One/Scenes/A Discovery.md",
-    "Story One/Story One Manuscript.md",
-    "Events/Example Event.md",
+    "README.md",
+    "Story One/Chapters/Example Chapter.md",
+    "Organisations/Example Organisation.md",
     "Characters/The Reader.md",
     "Characters/The Author.md",
-    "Organisations/Example Organisation.md",
+    "_bases/test.base",
+    "_bases/Related.base",
+    "Story One/Story One Manuscript.md",
     "Story One/Story One Concept.md",
-    "Story One/Chapters/Example Chapter.md",
     "Characters/Test Character.md",
     "Untitled.md",
     "_bases",
     "_meta/ideation",
     "Events",
-    "_media/example-dark.webp",
-    "_media/example-light.webp",
     "_media",
     "_templates/pages/page.md",
     "_templates/header/header.md",
     "_templates/footer/footer - obsidian.md",
     "_templates/footer/footer - location.md",
-    "_templates/footer/footer - character.md",
-    "Locations/Example Location.md",
     "Story One/Chapters",
     "Story One/Scenes",
     "_meta/research",

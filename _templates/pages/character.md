@@ -13,6 +13,8 @@ Note Type: Character
 
 ## Backstory
 
+## How do they think?
+%%Imagine writing in first person - what things do they notice? What do they pay attention to? _How_ do they think? %%
 # Intended Arc
 %% What are we wanting this character to go through, where should they end up. What's _their_ story going to be? %%
 

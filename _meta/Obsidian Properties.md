@@ -43,5 +43,8 @@ Lists viewpoint characters, or third-person - as a list of links to each Charact
 
 ## Locations
 
-Lists Locations the scene takes place in - as a list of links to each Character's own Note.
+Lists Locations the scene takes place in - as a list of links to each Location's own Note.
 
+## Organisations
+
+Lists any organisations mentioned in or part of the scene.

@@ -7,6 +7,12 @@ Note Type: Location
 # History
 %% How it began, who named it, notable events there, etc %%
 
+# Resources
+%% What is there, why would this location be valuable for people? %%
+
+# Related places
+%% Not geographically, but in terms of things like trade or similar %%
+
 # Dynamic Queries
 
 ## Scenes featuring "{{title}}"

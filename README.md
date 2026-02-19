@@ -96,10 +96,11 @@ This is where all images used in any pages are stored. It's handy to have media 
 
 ###  `_meta`
 
-This is where any files that are not part of the story belong. For example, you could put any notes to yourself in here, or group your research notes in here. e.g.,
+This is where any files that are not part of the story itself belong. For example, you could put notes to yourself in here, or group your research notes, etc.
 
-- Details about real world swords that are a basis of your in-story ones; weight, care steps, a photo, etc.
-- Research about common illnesses in medieval times, and their supposed cures - that you might want to reference and adapt for your own world.
+- `research` - e.g., Research about common illnesses in medieval times, and their supposed cures - that you might want to reference and adapt for your own world.
+- `ideation` - random ideas and other such unprocessed stuff that might become something later
+- `story notes` - the stage after ideation, where things are more firmly defined
 
 ### `_templates`
 
