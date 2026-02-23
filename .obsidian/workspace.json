@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7a6e0d4249610e",
+        "id": "b96c61152585b8e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d9802cc93d8f24bf",
+            "id": "1653038b599d3436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_meta/Incomplete Scenes.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Family Trees.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Incomplete Scenes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Family Trees"
             }
           }
         ]
@@ -95,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_meta/Incomplete Scenes.md",
+                "file": "Characters/Family Trees.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Incomplete Scenes"
+              "title": "Outline of Family Trees"
             }
           },
           {
@@ -131,10 +134,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_meta/Incomplete Scenes.md"
+                "file": "Characters/Family Trees.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Incomplete Scenes"
+              "title": "File properties for Family Trees"
             }
           },
           {
@@ -221,17 +224,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9802cc93d8f24bf",
+  "active": "1653038b599d3436",
   "lastOpenFiles": [
+    "_templates/pages/character.md",
+    "Characters/Family Trees.canvas",
+    "Clippings/Why Do You Need Big Tech for Your SSG? - Kev Quirk.md",
+    "_meta/Incomplete Scenes.md",
+    "Clippings",
     "Locations/The Reader's House.md",
     "Events/Example Event.md",
     "_templates/pages/scene.md",
     "_templates/pages/event.md",
     "_meta/Obsidian Properties.md",
-    "_meta/Incomplete Scenes.md",
     "_templates/pages/organisation.md",
     "_templates/pages/location.md",
-    "_templates/pages/character.md",
     "_meta/Writing Ideas Method.md",
     "_media/example-light.webp",
     "_media/example-dark.webp",
@@ -255,10 +261,8 @@
     "_templates/pages/page.md",
     "_templates/header/header.md",
     "_templates/footer/footer - obsidian.md",
-    "_templates/footer/footer - location.md",
     "Story One/Chapters",
     "Story One/Scenes",
-    "_meta/research",
-    "_templates"
+    "_meta/research"
   ]
 }

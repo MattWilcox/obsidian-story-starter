@@ -23,7 +23,7 @@ Note Type: Character
 - 
 
 # Notable Relationships
-%% Who's their parents? Family? Friends? Enemies? %%
+%% Who're their parents? Family? Friends? Enemies? %%
 - 
 
 # Notable Locations
