@@ -63,9 +63,11 @@ views:
     name: Table
     order:
       - file.name
+      - In World Date
       - file.folder
-      - file.ctime
-      - file.mtime
     sort: []
+    columnSize:
+      file.name: 180
+      note.In World Date: 180
 
 ```

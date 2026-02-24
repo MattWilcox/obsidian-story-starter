@@ -9,6 +9,7 @@ Viewpoints:
 Locations: "[[Locations/The Reader's House|The Reader's House]]"
 tags:
   - deleteme
+In World Date: 2000-01-01T00:00:00
 ---
 Don't scroll down yet! Unless, of course, you've already read me once...
 

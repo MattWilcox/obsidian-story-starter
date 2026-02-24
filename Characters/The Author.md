@@ -35,16 +35,16 @@ tags:
 
 ```base
 filters:
-	and:
-		- note["Note Type"] == "Scene"
-		- Characters.contains(link("Characters/The Author", "The Author"))
+  and:
+    - note["Note Type"] == "Scene"
+    - Characters.contains(link("Characters/The Author", "The Author"))
 properties:
-	file.name:
-		displayName: File
-	file.ctime:
-		displayName: Created
-	file.mtime:
-		displayName: Last edited
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
 views:
   - type: table
     name: Table
@@ -52,5 +52,8 @@ views:
       - file.name
       - file.ctime
       - file.mtime
+    sort:
+      - property: In World Date
+        direction: ASC
 
 ```

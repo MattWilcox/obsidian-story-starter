@@ -112,6 +112,12 @@ Obsidian templates to allow the quick creation of note _types_ as you write. For
 
 One Note per character is all I usually do, with stuff I as the author want to remember and know about my concept of them, which I can refer back to as I write.
 
+### Events
+
+> "world events" or other such important bits of history and lore that aren't directly things that happen in the story
+
+One note per Event. I treat these as omniscient fact, absolute truths. But that doesn't mean that the characters in the story agree with those facts, or have the same level of knowledge about the event.
+
 ### Locations
 
 > This is where all of your locations should be stored.
@@ -124,19 +130,13 @@ One Note per location is all I usually do, with stuff I as the author want to re
 
 Guess what? One Note per organisation is all I usually do, with stuff I as the author want to remember and know about my concept of them, which I can refer back to as I write. "What was the name of the guild responsible for wagons again? And who was it heading up the organisation? Ah yes..."
 
-### Events
+### Scratchpad
 
-> "world events" or other such important bits of history and lore that aren't directly things that happen in the story
+> Dump thoughts and ideas in here before you forget them.
 
-One note per Event. I treat these as omniscient fact, absolute truths. But that doesn't mean that the characters in the story agree with those facts, or have the same level of knowledge about the event.
+Had a sudden idea? This is somewhere to drop them before you organise / categorise / toss them out. Anything goes in here. Just get it out of your brain and in a file first.
 
-### Scenes
-
-> Components of the story itself, split into individual named scenes.
-
-Not numbered, because the order of scenes is likely to change as you progress on the story. You'll likely want to try out different ways of organising the scenes as part of the tory flow. So rather than just having one huge long document, I prefer to write atomic scenes and then compile those into a Chapter using Obsidian's "Embed" feature...
-
-### Chapters (named)
+### STORY TITLE > Chapters (named)
 
 > Embeded compilations of Scenes to form a chapter
 
@@ -144,7 +144,13 @@ Again, not numbered because you may also want to re-arrange chapters as you work
 
 No actual writing is in these Notes, just Obsidian's feature of embedding other Notes - this then allows you to drag-and-drop re-arrange scenes within a Chapter (by using Source view and moving the embed lines around, before going back to Reading view).
 
-### Story Manuscript
+### STORY TITLE > Scenes
+
+> Components of the story itself, split into individual named scenes.
+
+Not numbered, because the order of scenes is likely to change as you progress on the story. You'll likely want to try out different ways of organising the scenes as part of the tory flow. So rather than just having one huge long document, I prefer to write atomic scenes and then compile those into a Chapter using Obsidian's "Embed" feature...
+
+### STORY TITLE > Story Manuscript
 
 > Embedded Chapters, in order, to form the final story
 

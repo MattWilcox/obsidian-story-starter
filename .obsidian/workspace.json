@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b96c61152585b8e4",
+        "id": "9e615d63baa164ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1653038b599d3436",
+            "id": "a0f949875f4285e1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Family Trees.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Family Trees"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -98,13 +91,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Family Trees"
+              "title": "Outline"
             }
           },
           {
@@ -133,11 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Characters/Family Trees.canvas"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Family Trees"
+              "title": "File properties"
             }
           },
           {
@@ -224,34 +214,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1653038b599d3436",
+  "active": "a0f949875f4285e1",
   "lastOpenFiles": [
-    "_templates/pages/character.md",
-    "Characters/Family Trees.canvas",
-    "Clippings/Why Do You Need Big Tech for Your SSG? - Kev Quirk.md",
+    "README.md",
+    "_meta/Writing Ideas Method.md",
+    "_meta/Obsidian Properties.md",
     "_meta/Incomplete Scenes.md",
+    "Story One/Story One Manuscript.md",
+    "Story One/Story One Concept.md",
+    "Story One/Scenes/A Discovery.md",
+    "Story One/Scenes/Another Example Scene.md",
+    "Story One/Chapters/Example Chapter.md",
+    "_templates/pages/scene.md",
+    "_templates/pages/organisation.md",
+    "_templates/pages/location.md",
+    "_templates/pages/event.md",
+    "_templates/pages/character.md",
+    "Characters/The Reader.md",
+    "Characters/The Author.md",
+    "Scratchpad/An idea.md",
+    "Characters/Family Trees.canvas",
+    "Scratchpad",
+    "Clippings/Why Do You Need Big Tech for Your SSG? - Kev Quirk.md",
     "Clippings",
     "Locations/The Reader's House.md",
     "Events/Example Event.md",
-    "_templates/pages/scene.md",
-    "_templates/pages/event.md",
-    "_meta/Obsidian Properties.md",
-    "_templates/pages/organisation.md",
-    "_templates/pages/location.md",
-    "_meta/Writing Ideas Method.md",
     "_media/example-light.webp",
     "_media/example-dark.webp",
-    "Story One/Scenes/Another Example Scene.md",
-    "Story One/Scenes/A Discovery.md",
-    "README.md",
-    "Story One/Chapters/Example Chapter.md",
     "Organisations/Example Organisation.md",
-    "Characters/The Reader.md",
-    "Characters/The Author.md",
     "_bases/test.base",
     "_bases/Related.base",
-    "Story One/Story One Manuscript.md",
-    "Story One/Story One Concept.md",
     "Characters/Test Character.md",
     "Untitled.md",
     "_bases",
@@ -260,9 +252,7 @@
     "_media",
     "_templates/pages/page.md",
     "_templates/header/header.md",
-    "_templates/footer/footer - obsidian.md",
     "Story One/Chapters",
-    "Story One/Scenes",
-    "_meta/research"
+    "Story One/Scenes"
   ]
 }

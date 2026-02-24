@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Characters": "multitext",
-    "Viewpoints": "multitext"
+    "Viewpoints": "multitext",
+    "In World Date": "datetime"
   }
 }

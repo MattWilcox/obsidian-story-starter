@@ -20,7 +20,8 @@ Note Type: Character
 
 # Notable Events
 %% Maybe for the character, maybe related to a world event %%
-- 
+- Born:
+- Died: 
 
 # Notable Relationships
 %% Who're their parents? Family? Friends? Enemies? %%
@@ -43,18 +44,21 @@ filters:
 		- note["Note Type"] == "Scene"
 		- Characters.contains(link("Characters/{{title}}", "{{title}}"))
 properties:
-	file.name:
-		displayName: File
-	file.ctime:
-		displayName: Created
-	file.mtime:
-		displayName: Last edited
+  file.name:
+    displayName: File
+  file.ctime:
+    displayName: Created
+  file.mtime:
+    displayName: Last edited
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - file.ctime
-      - file.mtime
-
+      - In World Date
+      - file.folder
+    sort: []
+    columnSize:
+      file.name: 180
+      note.In World Date: 180
 ```
